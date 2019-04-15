@@ -11,7 +11,7 @@ public class FirstGit {
     }
 
     public void test1(){
-        System.out.println("one");
+        System.out.println("two");
     }
 
 }
