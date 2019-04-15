@@ -14,10 +14,8 @@ public class FirstGit {
         System.out.println("two");
     }
 
-    public void  test02(){
-        System.out.println("dasdasd");
-    }
-    //测试。。。。。。。。。。。。。。。
+
+    //测试。123
     public void test03(){
         System.out.println("ereqweqwe");
     }
