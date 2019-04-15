@@ -18,4 +18,8 @@ public class FirstGit {
         System.out.println("dasdasd");
     }
 
+    public void test03(){
+        System.out.println("ereqweqwe");
+    }
+
 }
