@@ -10,4 +10,8 @@ public class FirstGit {
         System.out.println("scuuess");
     }
 
+    public void test1(){
+        System.out.println("one");
+    }
+
 }
